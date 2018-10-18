@@ -1,0 +1,13 @@
+*.o
+*.cmake
+*.make*
+*.bin
+a.out
+*.a
+*.txt
+src/service/CMakeFiles
+src/CMakeFiles*
+src/MakeFile*
+src/*/MakeFile*
+src/*/CMakeFiles*
+brks.si4project/*
